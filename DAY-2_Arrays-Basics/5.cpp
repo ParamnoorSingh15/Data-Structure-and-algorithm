@@ -28,10 +28,5 @@ int main(){
     cout << index << endl;
 
 
-
-
-
-
-
     return 0;
 }
