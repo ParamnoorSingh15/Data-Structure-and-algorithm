@@ -17,6 +17,5 @@ int main(){
     int sum = (n*(n+1))/2;
     cout << sum - sum2 << endl;
 
-
     return 0;
 }
