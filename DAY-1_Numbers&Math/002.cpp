@@ -1,5 +1,6 @@
 // Check if a number is prime using sqrt(N) loop
 
+
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
