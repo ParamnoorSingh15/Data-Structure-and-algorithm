@@ -38,5 +38,7 @@ int main(){
 
     cout << maxSum <<endl;
 
+    // here we write condition below maxSum bcause of edge case that if all elements in array are -ve then max sum will become zero which is wrong
+
     return 0;
 }
