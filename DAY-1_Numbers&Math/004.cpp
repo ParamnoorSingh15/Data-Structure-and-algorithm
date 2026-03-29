@@ -25,4 +25,5 @@ int main(){
         long long  lcm = (1LL * temp1/gcd) * temp2;
         cout <<lcm<<endl;
         
+        
 }
