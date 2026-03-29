@@ -22,4 +22,5 @@ int main(){
     }
 
     cout << abs(prod-sum) << endl;
+    
 }
