@@ -24,4 +24,5 @@ int main(){
     
     cout << gcd << endl;
     
+    
 }
