@@ -15,6 +15,5 @@ int main(){
     }
     cout<<century<<endl;
 
-
     return 0;
 }
