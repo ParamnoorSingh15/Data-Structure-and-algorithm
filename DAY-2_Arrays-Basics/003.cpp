@@ -30,15 +30,5 @@ int main(){
         cout << secmax << endl;
     }
 
-
-
-
-
-
-
-
-
-
-
     return 0;
 }
