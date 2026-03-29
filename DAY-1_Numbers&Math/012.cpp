@@ -38,5 +38,5 @@ int main(){
     else{
         cout << "It is not a armstrong number" << endl;
     }
-    
+
 }
