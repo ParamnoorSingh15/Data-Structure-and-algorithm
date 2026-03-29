@@ -1,6 +1,5 @@
 // Linear search — return index, -1 if not found
 
-
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
