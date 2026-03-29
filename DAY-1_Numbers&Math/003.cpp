@@ -22,6 +22,5 @@ int main(){
     else
         gcd = a;
     
-
     cout << gcd << endl;
 }
